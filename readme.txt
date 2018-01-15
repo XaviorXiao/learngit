@@ -8,3 +8,7 @@ Zhe shi di san hang de dai ma
 我在这里在加点字
 
 我在这哭卡卡三等奖
+
+VMC_SERVER_BASE_URL
+13611832286
+111111
